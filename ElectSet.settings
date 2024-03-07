@@ -1,0 +1,34 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Electric" GeneratedClassName="ElectSet">
+  <Profiles />
+  <Settings>
+    <Setting Name="开始回复" Type="System.String" Scope="User">
+      <Value Profile="(Default)">24小时之内工作自动发货亲
+</Value>
+    </Setting>
+    <Setting Name="结束回复" Type="System.String" Scope="User">
+      <Value Profile="(Default)">亲，需要什么商品直接下单，机器人自动发货</Value>
+    </Setting>
+    <Setting Name="订单回复" Type="System.String" Scope="User">
+      <Value Profile="(Default)">谢谢惠顾亲。</Value>
+    </Setting>
+    <Setting Name="uid位数" Type="System.String" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="默认订单表格" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="默认商品表格" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="默认管理员账号" Type="System.String" Scope="User">
+      <Value Profile="(Default)">asd</Value>
+    </Setting>
+    <Setting Name="默认管理员密码" Type="System.String" Scope="User">
+      <Value Profile="(Default)">123456</Value>
+    </Setting>
+    <Setting Name="默认财务表格" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
